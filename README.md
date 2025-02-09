@@ -14,7 +14,7 @@ A collection of three modern web applications showcasing different tech stacks a
   - API Routes
   - Dark Mode support
 
-### nrps: Database + API-Focused App
+### ntps: Database + API-Focused App
 - **Tech Stack**: Next.js, tRPC, Prisma, Supabase
 - **Status**: 
 - **Planned Features**:
@@ -36,5 +36,5 @@ A collection of three modern web applications showcasing different tech stacks a
 Each project has its own README with specific setup instructions. Navigate to the project folders for more details:
 
 - [nrntt](./nrntt/README.md) - Modern Full-Stack App
-- nrps - Database + API-Focused App (Coming soon)
+- ntps - Database + API-Focused App (Coming soon)
 - ovs - AI-powered App (Coming soon)
