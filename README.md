@@ -1,6 +1,6 @@
 # stax
 
-A collection of three modern web applications showcasing different tech stacks and approaches.
+A collection of modern web applications showcasing different tech stacks and approaches.
 
 ## Projects
 
