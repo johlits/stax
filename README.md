@@ -23,6 +23,16 @@ A collection of modern web applications showcasing different tech stacks and app
   - Authentication with Supabase
   - Real-time capabilities
 
+### skld: SvelteKit + Lucia + DrizzleORM
+- **Tech Stack**: SvelteKit, Lucia, DrizzleORM, TanStack Query
+- **Status**: 
+- **Planned Features**:
+  - SvelteKit with SSR and routing
+  - Authentication with Lucia
+  - Type-safe ORM with Drizzle
+  - Data management with TanStack Query
+  - UnoCSS for atomic styling
+
 ### ovs: AI-powered App / Framework Experiment
 - **Tech Stack**: OpenAI API, Vercel AI SDK, or Solid.js/Astro
 - **Status**: 
@@ -37,4 +47,5 @@ Each project has its own README with specific setup instructions. Navigate to th
 
 - [nrntt](./nrntt/README.md) - Modern Full-Stack App
 - ntps - Database + API-Focused App (Coming soon)
+- skld - SvelteKit Full-Stack App (Coming soon)
 - ovs - AI-powered App (Coming soon)
