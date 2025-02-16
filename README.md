@@ -41,6 +41,17 @@ A collection of modern web applications showcasing different tech stacks and app
   - Modern UI framework exploration
   - Serverless architecture
 
+### vnpn: Vue + Nuxt + Pinia + Nitro
+- **Tech Stack**: Vue 3, Nuxt 3, Pinia, Nitro
+- **Status**: 
+- **Planned Features**:
+  - Vue 3 Composition API
+  - Nuxt 3 with SSR and routing
+  - State management with Pinia
+  - Server engine with Nitro
+  - Vitest for testing
+  - UnoCSS for styling
+
 ## Getting Started
 
 Each project has its own README with specific setup instructions. Navigate to the project folders for more details:
@@ -49,3 +60,4 @@ Each project has its own README with specific setup instructions. Navigate to th
 - ntps - Database + API-Focused App (Coming soon)
 - skld - SvelteKit Full-Stack App (Coming soon)
 - ovs - AI-powered App (Coming soon)
+- vnpn - Vue Full-Stack App (Coming soon)
