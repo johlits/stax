@@ -1,0 +1,33 @@
+{
+  "name": "vnpn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "nuxt": "^3.10.0",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.8",
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@types/node": "^20.11.16",
+    "@unocss/nuxt": "^0.58.5",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "@vue/test-utils": "^2.4.4",
+    "eslint": "^8.56.0",
+    "eslint-plugin-vue": "^9.21.1",
+    "happy-dom": "^13.3.8",
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.2"
+  }
+}
